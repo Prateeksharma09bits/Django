@@ -15,3 +15,4 @@ There snippet code will be in file3.py
 Custom Classes in Python
 Rectangle Class with Iteration Support
 -->You can create a Rectangle class with custom iteration behavior using Python’s __iter__ method. In this case, when iterating over an instance of Rectangle, it first returns the length and then the width.
+There snippet code will be in Topic2.py
