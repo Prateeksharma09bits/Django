@@ -10,3 +10,7 @@ There snippet code will be in file2.py
 Question 3: Do Django signals run in the same database transaction as the caller?
 -->By default, Django signals run in the same database transaction as the caller, assuming the signal is triggered by a database operation that is part of a transaction.
 There snippet code will be in file3.py
+
+#Topic 2: Custom Classes in Python
+Rectangle Class with Iteration Support
+-->You can create a Rectangle class with custom iteration behavior using Python’s __iter__ method. In this case, when iterating over an instance of Rectangle, it first returns the length and then the width.
